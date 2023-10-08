@@ -45,5 +45,12 @@ body::before {
     content: "XXL";
   }
 }
+.laptop {
+  width: 100%;
+}
+
+.hammock {
+  width: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
